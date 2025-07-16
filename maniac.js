@@ -22,3 +22,5 @@ SIMMONS:stack(
   s("<-!9 lt!3>*4").note("<40 36 33>*4").when("<1 0 1>*4", x=>x.delay(".1:.03:.08")),
 ).bank("simmonssds5")._punchcard()
 
+CLAP:s("-!2 clap -").early(.03)
+
